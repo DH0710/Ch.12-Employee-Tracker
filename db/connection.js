@@ -12,6 +12,6 @@ connection.connect(function (err) {
 });
 
 const inquirer = require('inquirer'); 
-const 
+const consoleTable = require('console.table')
 
 module.exports = connection;
